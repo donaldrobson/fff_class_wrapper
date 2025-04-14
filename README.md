@@ -1,5 +1,6 @@
 # FFF class wrapper
-A header allowing limited use of C++ methods with Fake Function Framework.
+A header allowing limited use of C++ methods with Fake Function Framework, found
+[here](https://github.com/meekrosoft/fff).
 
 This wrapper is intended for mixed C and C++ codebases that do not use virtual
 functions, such as firmware and kernel drivers. As such it only partly supports
